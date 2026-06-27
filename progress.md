@@ -17,4 +17,4 @@
 - Wed Jun 24 04:57:37 PM Asia 2026 | Still Working on  Problem Set 1- Week 1
 - Thu Jun 25 07:08:03 PM Asia 2026 | Still Working on  Problem Set 1- Week 1
 - 2026-06-26 19:49:22 | Completed and submitted all projects for Problem Set 1. Week 1 fully accomplished.
-- ### 2026-06-27 │ 06:40 PM │ `Attended the lecture 2 of Week 2 - Arrays.`
+- **2026-06-27 │ 06:40 PM** │ *Attended the lecture 2 of Week 2 - Arrays.*
